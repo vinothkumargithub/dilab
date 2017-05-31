@@ -1,3 +1,4 @@
 secret.yml filter=git-crypt diff=git-crypt
+praveen.yml filter=git-crypt diff=git-crypt
 kani.yml filter=git-crypt diff=git-crypt
 abi.yml filter=git-crypt diff=git-crypt
