@@ -1,1 +1,2 @@
 secret.yml filter=git-crypt diff=git-crypt
+abi.yml filter=git-crypt diff=git-crypt
